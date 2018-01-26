@@ -2,3 +2,8 @@ h1 {
   color: #D2691E;
   font-family: cursive;
 }
+body {
+  color: coral;
+  font-family: old;
+  background-color: red;
+}
