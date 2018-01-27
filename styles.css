@@ -1,11 +1,11 @@
 h1 {
-  color: #D2691E;
+  color: green;
   font-family: cursive;
   background-color: red;
 }
 .ass {
-  color: coral;
-  font-family: old;
+  color: indigo;
+  font-family: helvetica;
   border: green solid 30px;
   padding: 20px 30px;
   
