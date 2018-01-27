@@ -3,11 +3,9 @@ h1 {
   font-family: cursive;
   background-color: red;
 }
-p.ass {
+.ass {
   color: coral;
   font-family: old;
-}
-#yeah {
   border: green solid 30px;
   padding: 20px 30px;
 }
