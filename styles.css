@@ -10,3 +10,9 @@ h1 {
   padding: 20px 30px;
   
 }
+#cool {
+  color: indigo;
+  font-family: helvetica;
+  border: green solid 30px;
+  padding: 20px 30px;
+}
